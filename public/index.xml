@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>My New Hugo Site</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>http://example.org/</link>
+        
+        
+            <title>My New Hugo Site</title>
+        
+        
+        
+            <item>
+                
+                
+                
+                    <guid>http://example.org/main/</guid>
+                    <link>http://example.org/main/</link>
+                
+                
+                    <pubDate>Thu, 17 Aug 2023 16:42:35 &#43;0000</pubDate>
+                
+                
+                    <title>Main</title>
+                
+            </item>
+        
+    </channel>
+</rss>
