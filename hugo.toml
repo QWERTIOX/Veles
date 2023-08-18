@@ -1,6 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Veles'
-theme = 'ananke'
-[[module.imports]]
-path = "github.com/willfaught/paige"
